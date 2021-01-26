@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2017.2.1\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\BrainBox\CodeWork\OpenGL\LearningTree2
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/BrainBox/CodeWork/OpenGL/LearningTree2/cmake-build-debug

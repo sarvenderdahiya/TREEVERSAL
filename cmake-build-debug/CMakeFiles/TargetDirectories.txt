@@ -1,0 +1,3 @@
+D:/BrainBox/CodeWork/OpenGL/LearningTree2/cmake-build-debug/CMakeFiles/LearningTree.dir
+D:/BrainBox/CodeWork/OpenGL/LearningTree2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/BrainBox/CodeWork/OpenGL/LearningTree2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

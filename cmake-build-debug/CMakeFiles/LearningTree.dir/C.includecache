@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/BrainBox/CodeWork/OpenGL/LearningTree2/GameFrontend.c
+GL/glut.h
+-
+math.h
+-
+
+D:/BrainBox/CodeWork/OpenGL/LearningTree2/TreesBackend.c
+stdbool.h
+-
+malloc.h
+-
+GameFrontend.c
+D:/BrainBox/CodeWork/OpenGL/LearningTree2/GameFrontend.c
+
+D:/BrainBox/CodeWork/OpenGL/LearningTree2/main.c
+stdio.h
+-
+time.h
+-
+TreesBackend.c
+D:/BrainBox/CodeWork/OpenGL/LearningTree2/TreesBackend.c
+

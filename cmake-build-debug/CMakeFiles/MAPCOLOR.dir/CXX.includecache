@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/BrainBox/CodeWork/OpenGL/LearningTree2/MAPCOLOR.cpp
+windows.h
+-
+GL/glut.h
+-
+GL/glu.h
+-
+math.h
+-
+stdlib.h
+-
+stdio.h
+-
+iostream
+-
+list
+-
+
